@@ -1,6 +1,6 @@
 ###############################################
 # GC Content Analyzer
-# Author: Your Name
+# Author: JA2005
 # Date: 2025-11-14
 #
 # Description:
